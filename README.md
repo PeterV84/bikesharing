@@ -2,7 +2,8 @@
 ### Overview of the Citibike analysis: 
 
 This analysis is a helpful tool to provide information regarding the analytical data of the "Citibike" company in New York. By analyzing and breaking down this data in visualizations that are easy to understand, the investor will have the opportunity to assess the value of a startup bike company in Iowa. The data has been made to be easily manipulated by the user.
-https://public.tableau.com/app/profile/peter7208/viz/Citibike_16581849618580/14Challenge?publish=yes
+([Link to Dashboard](https://public.tableau.com/app/profile/peter7208/viz/Citibike_16581849618580/14Challenge?publish=yes))
+
 
 The first part of the dataset to explore a very general overview of what the Bike riders look like from a Riding and mapping perspective so we can get a good idea of where the bike riding population tends to favor.
 
